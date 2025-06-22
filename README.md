@@ -20,9 +20,6 @@ This project performs simple arithmetic operations like **Addition, Subtraction,
 :------------------------------------------------:|:-------------------|
  ![Dark calculator screenshot](screenshots/scientific-dark.png) | ![Colored calculator screenshot](screenshots/standard-light.png)
 
-*(Replace the above link with your own screenshot if available.)*
-
----
 
 ## 🛠️ Technologies Used
 
