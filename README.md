@@ -14,17 +14,15 @@ This project performs simple arithmetic operations like **Addition, Subtraction,
 
 ---
 
-## 📷 UI Preview
-
-> |                Scientific / Dark                | Standard / Colored |
+## Screenshots
+|                Scientific / Dark                | Standard / Colored |
 :------------------------------------------------:|:-------------------|
  ![Dark calculator screenshot](screenshots/scientific-dark.png) | ![Colored calculator screenshot](screenshots/standard-light.png)
 
-
+## Requirements 🔧
+* Java 11 or higher.
 ## 🛠️ Technologies Used
 
-- **Java**
-- **Java Swing** for GUI
 
 ---
 
